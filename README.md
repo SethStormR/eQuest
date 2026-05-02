@@ -1,3 +1,7 @@
+News
+--
+Repository moved to: https://codeberg.org/StormRosenaa/eQuest
+
 # eQuest
 
 
